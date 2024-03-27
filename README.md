@@ -173,6 +173,8 @@ Values of such as “account Id” have also been set as Text.
 And District name have been categorized as place to be use for the map to 
 show the sum of the inhabitants in each region.
 dashboard
+![Uploading Screenshot 2024-03-16 172734.png…]()
+
 
 
 
